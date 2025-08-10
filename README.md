@@ -3,7 +3,7 @@ This project is for educational purposes only. It is intended to demonstrate how
 
 This project is part of a cybersecurity learning journey. It is intended to demonstrate how keylogging works so defenders can better detect and prevent it. Unauthorized use of this tool violates laws and GitHub's Acceptable Use Policies.
 
-# 🖋 Python Keylogger (Safe Simulation)
+# 🖋 Python InputLogger Ethical (Safe Simulation)
 
 A **harmless, local-only** keylogging simulation built in Python for ethical cybersecurity training and detection practice.  
 Designed to demonstrate attacker techniques while providing a safe, controlled lab environment.
